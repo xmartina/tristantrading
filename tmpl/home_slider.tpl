@@ -1,4 +1,4 @@
-{$SiteName = "Capital Coin Investment"}
+{$SiteName = "Tristan Crypto Trading & Investment"}
 <div class="jumbo">
     <div class="jumbo-bg py-5">
         <div class="jumbo-cont pl-4 container py-4">
