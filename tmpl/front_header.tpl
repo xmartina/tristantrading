@@ -1,4 +1,4 @@
-{$SiteName = "Capital Coin Investment"}
+{$SiteName = "Tristan Crypto Trading & Investment"}
 {$PageTage = "Secured Investment Platform"}
 {$siteLogo = "/assets/images/logo/logo.png"}
 {$siteLogoDark = "/assets/images/logo/logo.png"}
