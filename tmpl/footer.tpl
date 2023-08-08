@@ -1,24 +1,51 @@
 
 </div>
-<div class="solidContainer">
-  <div class="solidInner zoomIn wow">
-    <div class="solid"> <a href="#" class="solid1"></a> <a href="#" class="solid2"></a> <a href="#" class="solid3"></a> <a href="#" class="solid4"></a> <a href="#" class="solid5"></a> <a href="#" class="solid6"></a> <a href="#" class="solid7"></a> <a href="#" class="solid8"></a> </div>
-  </div>
 </div>
-<div class="footerContainer">
-  <div class="footerInner">
-    <div class="ft-row1">
-      <h3>&copy; 2019. <a href="?a=home">{$settings.site_name}</a> ALL RIGHTS RESERVED</h3>
-    </div>
-    <div class="ft-part1"> <a href="?a=about">ABOUT US</a> <a href="?a=news">NEWS</a> <a href="?a=faq">FAQ</a> <a href="?a=support">support</a> <a href="?a=rules">terms</a><a href="?a=paidout">ALL PAID </a></div>
-  </div>
 </div>
 
 
+<!-- Modal -->
 
-<div style="position:fixed; bottom:0px; right:0px;">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.7/umd/popper.min.js" ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chartist/0.11.4/chartist.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chartist-plugin-tooltip/0.0.11/chartist-plugin-tooltip.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-notify/0.2.0/js/bootstrap-notify.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.2.0/js/jquery.mapael.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.2.0/js/maps/world_countries.min.js"></script>
+<script src="/new/assets/js/plugin/chart-circle/circles.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.scrollbar/0.2.11/jquery.scrollbar.min.js"></script>
+<script src="/new/assets/js/ready.min.js"></script>
 
 
-</div>
+
+<div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf"><div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO"><svg xmlns="http://www.w3.org/2000/svg" class="VIpgJd-ZVi9od-aZ2wEe" width="96px" height="96px" viewBox="0 0 66 66"><circle class="VIpgJd-ZVi9od-aZ2wEe-Jt5cK" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div>
+
+<!--Google Translator-->
+<script>
+
+  function googleTranslateElementInit() {
+
+    new google.translate.TranslateElement({
+
+      pageLanguage: 'en',
+
+      autoDisplay: 'true',
+
+      layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
+
+    }, 'google_translate_element');
+
+  }
+
+</script>
+
+<script src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'></script>
+<!--End Google Translator-->
+<!--tidio-->
+<script src="//code.tidio.co/a4t40fjgmhm31ekbcu1gxpqjt79qcvtz.js" async></script>
 </body>
 </html>

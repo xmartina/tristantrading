@@ -1,0 +1,19 @@
+.jumbo-bg{
+    background-image: url('/front_assets/images/jumbo-bg.jpg');
+    background-size: cover;
+}
+.jumbo-cont{
+    border-left: 4px solid #fccb03;
+}
+.no-wrap{
+    flex-wrap: nowrap;
+}
+.jumbo hr.bg-set{
+    border: 2px solid #ffc107!important;
+    background-color: #ffc107!important;
+    color:#ffc107!important;
+    width:23px!important;
+}
+@media (max-width: 769px) {
+
+}

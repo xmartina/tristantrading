@@ -1,0 +1,25 @@
+.site-logo{
+    max-width:140px;
+    height: 50px;
+}
+
+/*Google Translator Styling*/
+
+#google_translate_element select{
+
+
+
+    background-color:#f6edfd;
+
+    color:#383ffa;
+
+    border: none;
+
+    border-radius:3px;
+
+    padding:6px 8px
+
+}
+.VIpgJd-ZVi9od-l4eHX-hSRGPd{display: none}
+
+/*End Google Translator Styling*/

@@ -1,3 +1,4 @@
+{$pageName = "Registration Completed"}
 {include file="header.tpl"}
 
 
@@ -9,5 +10,10 @@ You are now an official member of this program. You can login to your account to
 <br>
 
 <b>Important:</b> Do not provide your login and password to anyone!
+<div class="btn py-1 px-4 bg-info text-white">
+    <a href="?a=login" class="text-white">
+        login
+    </a>
+</div>
 
 {include file="footer.tpl"}
